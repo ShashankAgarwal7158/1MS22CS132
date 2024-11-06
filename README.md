@@ -34,7 +34,7 @@
 ## Projects
 
 ### [Project Title 1](#)
-![Project 1 Image](https://via.placeholder.com/150)  
+![Project 1 Image](https://www.google.com/search?q=IMAGE&oq=IMAGE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDIKCAQQABixAxiABDIHCAUQABiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIHCAgQABiABDIKCAkQABixAxiABNIBCDEwOTVqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8#vhid=tYmxDgFq4MrkJM&vssid=_AjUrZ9O4LfmnseMP4ImA2QU_36)  
 *Short description of the project.*
 
 ### [Project Title 2](#)
