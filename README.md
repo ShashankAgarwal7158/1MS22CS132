@@ -1,6 +1,6 @@
 # SHASHANK Agarwal
 
-**Email:** [sanchiitvijay@gmail.com](mailto:sanchiitvijay@gmail.com)
+**Email:** [shashank7158@gmail.com](mailto:shashank7158@gmail.com)
 
 ---
 
@@ -45,6 +45,6 @@
 
 ## Education
 
-- **Degree:** [Your Degree Name]  
-- **Institution:** [Your University Name]  
-- **Year
+- **Degree:** B.TECH
+- **Institution:** MSRIT 
+- **Year 2026
